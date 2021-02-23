@@ -1,2 +1,2 @@
 # SimpleCalculator
-This is a simple CAlculatior with Python Tkinter GUI.
+This is a simple Calculatior with Python Tkinter GUI.
